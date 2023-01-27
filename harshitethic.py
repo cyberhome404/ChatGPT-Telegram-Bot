@@ -15,7 +15,7 @@ print(aienv)
 #Telegram bot key
 tgenv = os.getenv('TELEGRAM_KEY')
 if tgenv == None:
-    tgkey = "ENTER YOUR TELEGRAM TOKEN HERE"
+    tgkey = "5836592867:AAF4ge_XZx2jE3eA8EC1Arm4LJOhzsaLhSA"
 else:
     tgkey = tgenv
 print(tgenv)
